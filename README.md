@@ -10,3 +10,7 @@
   <a href="http://twitter.com/abdulwahedtalas">
     <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
+
+<p align="center">
+  <img width="48%" src="https://pbs.twimg.com/media/FGRP_wNWUA8bKD_?format=jpg&name=900x900" alt="Github Swag" />
+</p>
