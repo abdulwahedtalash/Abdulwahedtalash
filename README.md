@@ -2,15 +2,9 @@
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://twitter.com/Abdulwahedtalas">twitter</a> </p>
 
-<p align="center"><b>Part of the <a href="https://stars.github.com/profiles"> GitHub Stars program and Star of 2020 🌟</a></b></p>
-
 <p align="center">As a software engineer, the more I learn, the more I realize how much I still need to learn.</p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://twitter.com/abdulwahedtalas">
-    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
-  </a>
-
-<p align="center">
-  <img width="48%" src="https://pbs.twimg.com/media/FGRP_wNWUA8bKD_?format=jpg&name=900x900" alt="Github Swag" />
-</p>
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAbdulwahedtalas" />
+  </a> -->
