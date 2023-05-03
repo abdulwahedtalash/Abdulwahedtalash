@@ -2,7 +2,7 @@
 
 <p align="center"><b>I believe Open Source is for EVERYONE, yes YOU TOO! Join me on my <a href="https://twitter.com/Abdulwahedtalas">twitter</a> </b></p>
 
-<p align="center">As a software engineer, the more I learn, the more I realize how much I still need to learn.</p>
+<p align="center">As a software engineer, the more I learn, the more I realize how much I still need to learn. 💕</p>
 
 <!-- <p align="center">
   <a href="http://twitter.com/abdulwahedtalas">
